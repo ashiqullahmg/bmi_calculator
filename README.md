@@ -1,6 +1,6 @@
 # bmi_calculator
 
-A new Flutter application.
+This is a simple BMI Calculator, which calcuates your BMI after you give your weight and height, but it also take sex or gender and age into the calculation account as well. Suppose you age is less than 21, it will give you interpretation based on your age and gender as well. I have implemented a percentile graph.
 
 ## Getting Started
 
